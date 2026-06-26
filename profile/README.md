@@ -68,12 +68,12 @@ SR思锐团队（常设核心为 **思锐工作室 / SR-Studio**）成立于 201
 
 | 项目名称 | 简介 | 技术栈 |
 | :--- | :--- | :--- |
-| [**`Jianer_QQ_bot`**](https://github.com/SRInternet-Studio/Jianer_QQ_bot) | 集成群管、AI、娱乐于一体的新一代 QQ 群机器人。 | Python (OneBot v11) |
-| [**`Wallpaper-generator`**](https://github.com/SRInternet-Studio/Wallpaper-generator) | 快捷、个性化的图片聚合与壁纸生成平台。 | Python |
-| [**`Seewo-Custom_Start`**](https://github.com/SRInternet-Studio/Seewo-Custom_Start) | 针对学校交互式电子白板（希沃设备）的可个性化定制的启动器。 | VB.NET / C# |
-| [**`Class_Hot_Search`**](https://github.com/SRInternet-Studio/Class_Hot_Search) | 服务于学校班级大屏的公共投票与热搜榜展示小工具。 | VB.NET |
-| [**`FactLite`**](https://github.com/SRInternet-Studio/FactLite) | 旨在缓解 AI 模型幻觉、进行内容事实核查的轻量级框架。 | Python |
-| [**`Minecraft-2D`**](https://github.com/SRInternet-Studio/Minecraft-2D) | 基于 Python 独立实现的 2D 像素风沙盒游戏。 | Python |
+| [**`Jianer_QQ_bot`**](https://github.com/SRInternet-Studio/Jianer_QQ_bot) <img alt="GitLab Stars" src="https://img.shields.io/github/stars/SRInternet-Studio/Jianer_QQ_bot?label=Stars"> | 集成群管、AI、娱乐于一体的新一代 QQ 群机器人。 | Python (OneBot v11) |
+| [**`Wallpaper-generator`**](https://github.com/SRInternet-Studio/Wallpaper-generator) <img alt="GitLab Stars" src="https://img.shields.io/github/stars/SRInternet-Studio/Wallpaper-generator?label=Stars"> | 快捷、个性化的图片聚合与壁纸生成平台。 | Python |
+| [**`Seewo-Custom_Start`**](https://github.com/SRInternet-Studio/Seewo-Custom_Start) <img alt="GitLab Stars" src="https://img.shields.io/github/stars/SRInternet-Studio/Seewo-Custom_Start?label=Stars"> | 针对学校交互式电子白板（希沃设备）的可个性化定制的启动器。 | VB.NET / C# |
+| [**`Class_Hot_Search`**](https://github.com/SRInternet-Studio/Class_Hot_Search) <img alt="GitLab Stars" src="https://img.shields.io/github/stars/SRInternet-Studio/Class_Hot_Search?label=Stars"> | 服务于学校班级大屏的公共投票与热搜榜展示小工具。 | VB.NET |
+| [**`FactLite`**](https://github.com/SRInternet-Studio/FactLite) <img alt="GitLab Stars" src="https://img.shields.io/github/stars/SRInternet-Studio/FactLite?label=Stars"> | 旨在缓解 AI 模型幻觉、进行内容事实核查的轻量级框架。 | Python |
+| [**`Minecraft-2D`**](https://github.com/SRInternet-Studio/Minecraft-2D) <img alt="GitLab Stars" src="https://img.shields.io/github/stars/SRInternet-Studio/Minecraft-2D?label=Stars"> | 基于 Python 独立实现的 2D 像素风沙盒游戏。 | Python |
 
 ---
 
